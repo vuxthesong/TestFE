@@ -1,0 +1,68 @@
+.logo{
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+}
+
+.desciption{
+    margin-top: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1510px;
+    height: 210px;
+    background-color: #EFEFEF;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.desciption h1 {
+    font-size: 18px;
+    padding-top: 38px;
+    padding-bottom: 18px;
+}
+
+.desciption p {
+    display: block;
+    width: 972px;
+    height: 95px;
+    text-align:justify;
+}
+
+.post-container {
+    width: 1510px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    display: flex;
+    justify-content:space-between;
+
+}
+.post{
+    width: 470px;
+    height: 252px;
+}
+.post h1 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 19px;
+}
+
+.img{
+    padding-top: 18px;
+    display: flex;
+}
+
+.img .icon{
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-top: 18px;
+    display: flex;
+}
+
+.img  p{
+    padding-top: inherit;
+}
+
